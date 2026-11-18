@@ -6,18 +6,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vaibhavmistryyy">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://vaibhavmistryyy.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-vaibhavmistryyy.github.io-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Big%20Data%20%7C%20AI%20%7C%20Full--Stack-blue?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status" />
+  <a href="https://github.com/vaibhavmistryyy">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
+---
+
+### 🌐 Interactive Portfolio Website
+Visit my interactive portfolio website featuring real-time biosignal waveform simulation and live terminal console:  
+👉 **[https://vaibhavmistryyy.github.io](https://vaibhavmistryyy.github.io)**
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a passionate software and data engineer specialized in designing scalable data architectures, training robust machine learning models, and building enterprise full-stack solutions. My work bridges distributed data engineering with intelligent algorithmic modeling:
+I am a passionate software and data engineer specialized in designing scalable data architectures, training robust machine learning models, and building enterprise full-stack solutions:
 
 - 📊 **Big Data & Distributed Computing**: Processing and modeling large-scale data with Hadoop HDFS, Apache Hive, and Apache Spark / PySpark.
 - 🧠 **AI & Deep Learning**: Engineering deep neural networks (1D-CNN + BiLSTM) for temporal biosignal processing, biomedical analytics, and predictive workflows.
@@ -139,5 +146,5 @@ I am a passionate software and data engineer specialized in designing scalable d
 ---
 
 <p align="center">
-  © 2026 <strong>Vaibhav Mistry</strong> — Connect with me on <a href="https://github.com/vaibhavmistryyy">GitHub</a>
+  © 2026 <strong>Vaibhav Mistry</strong> — Connect with me on <a href="https://github.com/vaibhavmistryyy">GitHub</a> or visit my <a href="https://vaibhavmistryyy.github.io">Live Portfolio</a>
 </p>
