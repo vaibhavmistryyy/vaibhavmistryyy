@@ -6,12 +6,36 @@ I recently graduated from **Humber College** with a Post-Graduate Certificate in
 
 ---
 
-## 🛠️ What I Work With
+## 🛠️ Tech Stack
 
-**Languages:** Python · JavaScript · PHP · SQL · Bash  
-**Web:** Laravel · HTML/CSS · Tailwind CSS · React Native  
-**Data & AI:** Apache Spark · Hadoop · TensorFlow · MySQL  
-**Tools:** Git · GitHub · Postman · Linux · Office 365  
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Web & Frameworks**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Data & AI**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -26,19 +50,12 @@ I recently graduated from **Humber College** with a Post-Graduate Certificate in
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Stats
 
-**Cineplex Entertainment** — Team Member & IT Systems Support *(Sep 2023 – Present)*  
-- Troubleshoot POS terminals, ticketing kiosks, and card readers  
-- Handle first-line IT issues and escalate to Tier-2 when needed  
-- Trained 10+ new staff on systems and protocols  
-
----
-
-## 🎓 Education
-
-🎓 **Post-Graduate Certificate, IT Solutions** — Humber College, Toronto *(2023–2025)*  
-🎓 **Bachelor of Computer Applications (BCA)** — V.S. Patel College, India *(2019–2022)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmistryyy&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmistryyy&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
